@@ -31,6 +31,12 @@ const users = [
     name: 'toan doe' ,
     age: 28,
     email: 'toan@gmail.com'
+},
+{
+     id:4 ,
+    name: 'coan doe' ,
+    age: 18,
+    email: 'coan@gmail.com'
 }
 
 ]
